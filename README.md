@@ -1,17 +1,17 @@
 # Global_Ai_Hub_Project
 Prompt_Engineering_Project
 
-Ana Prompt:
+Main Prompt:
 ChatGPT:
-HTML, CSS ve JavaScript kullanarak popüler oyunları, filmleri, dizileri ve animeleri sergileyen bir interaktif ürün kataloğu web sayfası oluşturmak istiyorum. Sayfada dört ana kategori olmalı: Oyun, Film, Dizi ve Anime. Her kategorinin kendine ait bölümü olmalı ve bu bölümler sayfa içinde ayrı ayrı yer almalı. Kullanıcılar sayfanın üst kısmında yer alacak header aracılığıyla bu kategorilere kolayca erişebilmeli. Kategori başlıklarına tıkladığında ilgili kategori bölümüne sayfa içinde yumuşak bir geçiş yapılmalı. Header içerisinde sola yaslı ve kategori başlıkları ile aynı sırada olacak şekile logo için alan oluştur.
+I want to create an interactive product catalog web page showcasing popular games, movies, TV series and anime using HTML, CSS and JavaScript. The page should have four main categories: Game, Movie, TV Series and Anime. Each category should have its own section and these sections should be placed separately on the page. Users should be able to easily access these categories through the header at the top of the page. Clicking on the category titles should lead to a smooth transition to the relevant category section on the page. Create space for the logo in the header, left justified and in the same order as the category titles.
 
-Her kategori altında, ürünler yan yana üçerli gruplar halinde dizilmeli, her kategoride dokuzar ürün olmalı ve ürünlerin üzerine gelindiğinde, ürün hakkında bilgiler içeren bir açıklama belirmeli. Ürün açıklamaları, hologram tarzında ve metin soldan ve sağdan 20px boşlukla sola yaslanmış şekilde düzenlenmeli.
+Under each category, products should be arranged side by side in groups of three, with nine products in each category, and hovering over the products should display a description with information about the product. Product descriptions should be arranged in a hologram style, with the text left-justified with 20px margins left and right.
 
-Ayrıca, web sitesinin arka planında, ürün isimleri etrafında yarı saydam kutular ve header bölümünde animasyon efektiyle belirginleşen kategori seçenekleri yer almalı. Menüde yer alan kategori başlıkları içinde küçük bir kutu içerisinde olmalı ve bu kutu üzerine gelindiğinde animasyon etkisi olmalı. Header menünün solunda, sayfa ile uyumlu bir logo resmi yer almalı ve bu logo, menünün yapısını bozmadan ve sayfa içeriğini kaplamadan belirli bir mesafede olmalı. Ayrıca, her kategori için H2 etiketi ile yazılmış başlıklar, sayfanın yapısını bozmadan ve header'ın altında kalmadan görünür olmalı.
+In addition, the background of the website should have translucent boxes around the product names and category options in the header section that are highlighted with an animation effect. The category headings in the menu should be in a small box and hovering over this box should have an animation effect. To the left of the header menu, there should be a logo image that is compatible with the page, and this logo should be at a certain distance without disrupting the structure of the menu and covering the page content. Also, the headings for each category, written with H2 tags, should be visible without breaking the structure of the page and without being under the header.
 
-Bu sayfanın HTML yapısını, CSS stilini ve JavaScript fonksiyonlarını içerecek şekilde yerine getirecek kodu ver.
+Provide the code to fulfill the HTML structure of this page, including CSS styling and JavaScript functions.
 
-Görseller için yazdırdığım prompt:
+For images:
 ChatGPT:
 Anime çizimi şeklinde hasırdan yapılmış bir şapka resmi yap 1792 x 1008 ölçülerinde olsun/tepesi daha yuvarlak olsun ve beyaz şerit kırmızı renkte olsun.
 Kaneki ken'i anime çizimi ile ayakta tek göz maskeli şekilde 1792 x 1008 ölçülerinde görselini oluşturur musun?
